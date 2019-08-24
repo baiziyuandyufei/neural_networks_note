@@ -17,15 +17,16 @@
 
 ## 第3章 Keras快速上手
 
-本章初步认识Keras的一种模型Sequential，这个模型可以翻译为堆叠模型。我们都知道神经网络的基本单位是神经元，而一个或多个神经元可以构成一个网络层，多个网络层就构成了一个神经网络模型。那么堆叠模型就是让用户不断向其中堆叠网络层进而构成神经网络。本章的例题演示了一个基本的MLP神经网络构成的多类别分类模型。
+本章初步认识Keras的一种模型Sequential，这个模型可以翻译为堆叠模型。我们都知道神经网络的基本单位是神经元，而一个或多个神经元可以构成一个网络层，多个网络层就构成了一个神经网络模型。那么堆叠模型就是让用户不断向其中堆叠网络层进而构成神经网络。本章的例题演示了一个基本的MLP神经网络构成的多类别分类模型。[Keras快速上手笔记](https://github.com/baiziyuandyufei/start_keras/blob/master/Chap3/Chap3%20Keras%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B.ipynb)
 
 ## 第4章 Keras模型的定义
 
-Keras有两种类型的模型：堆叠模型（Sequential）和函数式模型（Model)。Sequential模型是函数式模型的一种特殊情况。本节构建一个MLP神经网络解决两类别分类问题。通过该示例，演示Sequential模型。
+Keras有两种类型的模型：堆叠模型（Sequential）和函数式模型（Model)。Sequential模型是函数式模型的一种特殊情况。本节构建一个MLP神经网络解决两类别分类问题。通过该示例，演示Sequential模型。[Keras模型的定义笔记](https://github.com/baiziyuandyufei/start_keras/blob/master/Chap4/Chap4%20Keras%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%AE%9A%E4%B9%89.ipynb)
 
 ## 第5章 Keras网络结构
 
 Keras由各种网络层构成，Keras的网络结构就是指各种网络层，本章介绍Keras中提供的各种网络层。
+[Keras网络结构笔记](https://github.com/baiziyuandyufei/start_keras/blob/master/Chap5/Chap5%20Keras%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84.md)
 
 ## 第6章 Keras数据预处理
 
